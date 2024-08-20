@@ -12,6 +12,7 @@ public class LamdaExpsn {
 	Demo d=(a)->{
 		return a;
 		//Shiv
+		//Shiv
 	};
 	@Test
 	public void test()
